@@ -1,12 +1,12 @@
-# AI-Enhanced Glasses for Individuals with Visual and Auditory Impairments
+# Integrating Computer Vision, Speech Intelligence, and Large Language Models for Assistive Smart Glasses
 
 ## Overview
 
-This project aims to develop **AI-Enhanced Glasses**, codenamed **Focus**, designed to support individuals with visual and auditory impairments. The glasses offer real-time assistance for communication, navigation, and daily tasks, promoting greater independence and enhancing the quality of life for users. The design integrates state-of-the-art deep learning models and computer vision technologies to bridge the gap for individuals with sensory impairments.
+This project aims to develop **AI-Enhanced Glasses**,  designed to support individuals with visual and auditory impairments. The glasses offer real-time assistance for communication, navigation, and daily tasks, promoting greater independence and enhancing the quality of life for users. The design integrates state-of-the-art deep learning models and computer vision technologies to bridge the gap for individuals with sensory impairments.
 
 <div align="center">
-  <a href="https://github.com/Usman-Khan707/Multimodal-AI-for-Assistive-Smart-Glasses/blob/main/images/prototype.png">
-    <img src="https://github.com/Usman-Khan707/Multimodal-AI-for-Assistive-Smart-Glasses/blob/main/images/prototype.png" alt="Prototype" width="500px">
+  <a href="https://github.com/Usman-Khan707/Multimodal-AI-for-Assistive-Smart-Glasses/blob/main/images/prototype.jpg">
+    <img src="https://github.com/Usman-Khan707/Multimodal-AI-for-Assistive-Smart-Glasses/blob/main/images/prototype.jpg" alt="Prototype" width="500px">
   </a>
 </div>
 
@@ -34,11 +34,11 @@ This project aims to develop **AI-Enhanced Glasses**, codenamed **Focus**, desig
 Globally, **1.1 billion** people experience some form of vision loss, with **285 million** having low vision or blindness. Additionally, **466 million** individuals suffer from hearing loss, while approximately **1 million** in the U.S. use American Sign Language (ASL) as their primary mode of communication.
 
 <div align="center">
-  <a href="https://github.com/aghassel/Focus-AI-Glasses/blob/main/images/stats_1.png" style="display:inline-block;">
-    <img src="https://github.com/aghassel/Focus-AI-Glasses/blob/main/images/stats_1.png" alt="Stats 1" height="300px">
+  <a href="https://github.com/Usman-Khan707/Multimodal-AI-for-Assistive-Smart-Glasses/blob/main/images/stats_1.png" style="display:inline-block;">
+    <img src="https://github.com/Usman-Khan707/Multimodal-AI-for-Assistive-Smart-Glasses/blob/main/images/stats_1.png" alt="Stats 1" height="300px">
   </a>
-  <a href="https://github.com/aghassel/Focus-AI-Glasses/blob/main/images/stats_2.jpg" style="display:inline-block;">
-    <img src="https://github.com/aghassel/Focus-AI-Glasses/blob/main/images/stats_2.jpg" alt="Stats 2" height="300px">
+  <a href="https://github.com/Usman-Khan707/Multimodal-AI-for-Assistive-Smart-Glasses/blob/main/images/stats_2.jpg" style="display:inline-block;">
+    <img src="https://github.com/Usman-Khan707/Multimodal-AI-for-Assistive-Smart-Glasses/blob/main/images/stats_2.jpg" alt="Stats 2" height="300px">
   </a>
 </div>
 
@@ -60,8 +60,8 @@ The glasses are tailored to enhance the daily life of individuals with visual an
 - **Weather & Date/Time Display**: Contextual information based on the user’s region.
 
 <div align="center">
-  <a href="https://github.com/aghassel/Focus-AI-Glasses/blob/main/images/architecture.png">
-    <img src="https://github.com/aghassel/Focus-AI-Glasses/blob/main/images/architecture.png" alt="Prototype" width="600px">
+  <a href="https://github.com/Usman-Khan707/Multimodal-AI-for-Assistive-Smart-Glasses/blob/main/images/architecture.png">
+    <img src="https://github.com/Usman-Khan707/Multimodal-AI-for-Assistive-Smart-Glasses/blob/main/images/architecture.png" alt="Prototype" width="600px">
   </a>
 </div>
 
@@ -103,8 +103,8 @@ The design overcomes power consumption and weight balance challenges by extendin
 Utilizing the **YOLOv5 Architecture**, the glasses can detect nearby cars and highlight their locations with bounding boxes, providing real-time assistance to users in navigating their surroundings safely. This feature achieved **95% accuracy** using the **Intersection Over Union** metric on the **Kitti Dataset**.
 
 <div align="center">
-  <a href="https://github.com/aghassel/Focus-AI-Glasses/blob/main/images/cv_architecture.png">
-    <img src="https://github.com/aghassel/Focus-AI-Glasses/blob/main/images/cv_architecture.png" alt="Prototype" width="500px">
+  <a href="https://github.com/Usman-Khan707/Multimodal-AI-for-Assistive-Smart-Glasses/blob/main/images/cv_architecture.png">
+    <img src="https://github.com/Usman-Khan707/Multimodal-AI-for-Assistive-Smart-Glasses/blob/main/images/cv_architecture.png" alt="Prototype" width="500px">
   </a>
 </div>
 
