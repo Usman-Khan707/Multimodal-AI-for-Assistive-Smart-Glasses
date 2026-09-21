@@ -5,8 +5,8 @@
 This project aims to develop **AI-Enhanced Glasses**, codenamed **Focus**, designed to support individuals with visual and auditory impairments. The glasses offer real-time assistance for communication, navigation, and daily tasks, promoting greater independence and enhancing the quality of life for users. The design integrates state-of-the-art deep learning models and computer vision technologies to bridge the gap for individuals with sensory impairments.
 
 <div align="center">
-  <a href="https://github.com/aghassel/Focus-AI-Glasses/blob/main/images/prototype.png">
-    <img src="https://github.com/aghassel/Focus-AI-Glasses/blob/main/images/prototype.png" alt="Prototype" width="500px">
+  <a href="https://github.com/Usman-Khan707/Multimodal-AI-for-Assistive-Smart-Glasses/blob/main/images/prototype.png">
+    <img src="https://github.com/Usman-Khan707/Multimodal-AI-for-Assistive-Smart-Glasses/blob/main/images/prototype.png" alt="Prototype" width="500px">
   </a>
 </div>
 
@@ -92,10 +92,9 @@ The design overcomes power consumption and weight balance challenges by extendin
 - **Text-to-Speech (TTS)**: Utilizes **OpenAI’s Whisper API** for realistic speech synthesis.
 - **Large Language Models (LLMs)**: Utilizes **Llama2-70B** model for real-time query response, processing up to 350 tokens per second.
 - **ASL Recognition**: Recognizes up to **250 ASL signs** using an ensemble of 1D Convolutional Neural Networks (1DCNN) and Transformer models, achieving **89% accuracy** with 17ms latency.
-
   <div align="center">
-  <a href="https://github.com/aghassel/Focus-AI-Glasses/blob/main/images/asl_architecture.png">
-    <img src="https://github.com/aghassel/Focus-AI-Glasses/blob/main/images/asl_architecture.png" alt="Prototype" width="500px">
+  <a href="https://github.com/Usman-Khan707/Multimodal-AI-for-Assistive-Smart-Glasses/blob/main/images/asl_architecture.png">
+    <img src="https://github.com/Usman-Khan707/Multimodal-AI-for-Assistive-Smart-Glasses/blob/main/images/asl_architecture.png" alt="Prototype" width="500px">
   </a>
 </div>
 
@@ -177,7 +176,3 @@ Each feature of the glasses is evaluated based on functionality, performance, us
 - [6] Geiger A., Lenz P., Stiller C., & Urtason R. (2013). "Vision meets Robotics: The KITTI Dataset." IJRR.
 
 ---
-
-## License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for more details.
